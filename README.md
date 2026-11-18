@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there, I'm Mushtaq 👋
 
-<!--
-**mushtaqalfaqih/mushtaqalfaqih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building intelligent systems and developing practical AI solutions.
+
+🚀 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Data Analysis & Data Pipelines
+
+🛠️ Technologies & Tools
+
+- Python
+- C++
+- Java
+- SQL
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Pandas & NumPy
+- OpenCV
+
+🎯 My Goal
+
+Turning ideas into intelligent solutions through technology and innovation.
+
+📫 Contact
+
+- Email: mushtaq.alfagih.ai@gmail.com
